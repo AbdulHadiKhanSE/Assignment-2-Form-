@@ -1,0 +1,130 @@
+body{
+    font-family: 'poppins';
+    margin: 30px;
+
+}
+
+.form{
+    width: 900px;
+    margin: auto;
+}
+
+.main{
+    text-align: center;
+    padding: 15px;
+}
+.aura{
+    display: block;
+    margin: 0 auto 20px;
+    width: 180px;
+    height: auto;
+}
+
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'poppins';
+}
+
+.form td{
+    padding: 6px;
+}
+
+.head{
+    position: relative;
+    /* color: red; */
+    right: 65px;
+    /* margin-right: 200px; */
+    /* border: 1px solid black; */
+    font-weight: normal;
+}
+.label{
+    width: 185px;
+    /* font-weight: bold; */
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="date"] {
+    width: 195px;
+    height: 22px;
+    box-sizing: border-box;
+}
+ 
+ 
+textarea{
+    width: 310px;
+    height: 80px;
+}
+
+select{
+    width: 250px;
+    height: 22px;
+}
+
+.quali{
+    width: 900px;
+    border-collapse: collapse;
+    margin-top: 10px;
+    margin-left: 260px;
+    /* margin-right: auto; */
+    
+}
+
+
+.quali td{
+   /* border: solid black 1px; */
+   padding: 2px;
+   text-align: center;
+   
+   
+}
+
+.quali input{
+    width: 185px;
+    height: 20px;
+}
+
+.small1{
+
+margin-left: 10px;
+white-space: nowrap;
+font-size: 14px;
+
+}
+
+.small7{
+    margin-left: 610px;
+    font-size: 14px;
+}
+
+.small8{
+    margin-left: 150px;
+    font-size: 14px;
+}
+
+.btn{
+    padding: 5px 15px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+a{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    padding: 4px 12px;
+    text-decoration: none;
+    border-radius: 50%;
+    background-color: green;
+    width: 55px;
+    height: 55px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
